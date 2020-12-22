@@ -3,6 +3,9 @@
 }
 h1{
   font-family: 'Montserrat-Black', sans-serif;
-  font-size: :3rem;
+  font-size: 4rem;
   Line Height = 1.5;
+}
+.container-fluid{
+  padding: 3% 15%;
 }
