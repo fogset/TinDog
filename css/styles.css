@@ -57,7 +57,7 @@ p{
 /* Title Image */
 .title-image{
   width:60%;
-  transform: rotate(25);
+  transform: rotate(25deg);
 }
 
 /* Features Section */
@@ -81,7 +81,7 @@ p{
 
 /* Testimonial section */
 #testimonials{
-  padding: 7% 15%;
+
   text-align: center;
   background-color: #ef8172;
   color: #fff;
@@ -91,6 +91,9 @@ p{
   width:10%;
   border-radius: 100%;
   margin: 20px;
+}
+.carousel-item{
+  padding: 7% 15%;
 }
 
 #press{
