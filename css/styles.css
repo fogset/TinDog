@@ -132,3 +132,15 @@ p{
     transform: rotate(0);
   }
 }
+
+#cta{
+  background-color: #ff4c68;
+
+  text-align:center;
+}
+.bootomFooter{
+   font-size: 3rem;
+   color:#fff;
+   font-family: 'Montserrat-Black';
+   padding: 7% 15%;
+}
