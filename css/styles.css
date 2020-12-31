@@ -136,7 +136,11 @@ p{
    line-height: 1.5;
    font-family: 'Montserrat-Black';
 }
-
+/* Footer Section */
+#footer{
+  padding: 7% 15%;
+  text-align: center;
+}
 @media(max-width: 1028px){
   #title{
     text-align: center;
