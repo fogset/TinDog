@@ -5,12 +5,9 @@ body{
 h1,h2,h3{
   font-family: "Montserrat-Bold";
 }
-h2{
-  font-size: 3rem;
-  line-height: 1.5;
-}
 
 h3{
+  font-size: 1.5rem;
 }
 
 p{
@@ -26,6 +23,10 @@ p{
 
 .container-fluid{
   padding: 3% 15% 12%;
+}
+.section-heading{
+  font-size: 3rem;
+  line-height: 1.5;
 }
 
 #title{
@@ -95,6 +96,10 @@ p{
   background-color: #ef8172;
   color: #fff;
 }
+.testimonial-text{
+  font-size: 3rem;
+  line-height: 1.5;
+}
 
 .testimonial-image{
   width:10%;
@@ -121,6 +126,11 @@ p{
 #pricing {
   padding: 100px;
   text-align: center;
+}
+
+.price-text{
+  font-size: 3rem;
+  line-height: 1.5;
 }
 
 .pricing-column{
