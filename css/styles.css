@@ -65,7 +65,8 @@ p{
 
 /* Title Section */
 
-#title{
+#title.container-fluid{
+  padding: 30% 15% 7%;
   text-align: left;
 }
 
@@ -77,9 +78,7 @@ p{
   right: 30%;
 }
 
-#title.container-fluid{
-  padding: 30% 15% 7%;
-}
+
 
 /* Features Section */
 #features{
